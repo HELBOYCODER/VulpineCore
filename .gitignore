@@ -1,0 +1,3 @@
+/vulpine-core
+*.test
+coverage.out
